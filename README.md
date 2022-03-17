@@ -14,12 +14,14 @@ To see data set :: Excle file.
 
 ## [Project 2 : POWER BI LIVE STREAMING DATA USING API METHOD](https://github.com/Deepanshu-Daga/Python-projects-Level-1/tree/main/POWER%20BI%20LIVE%20STREAMING%20DATA%20USING%20API%20METHOD)
 
+
 Real time data is being created in python and then using rest api it is injected into POWER BI to show real time integerated dashboard
 
 
 
 
 ## [Project 3 : DEEP LEARNING OBJECT DETECTION USING YOLOv5 ARCHITECTURE](https://drive.google.com/drive/folders/1my2biX48br28AnN6QWmQipgD1B-arXf_?usp=sharing)
+
 
 Creating a trainging data set to train our deep learning model on it.
 
