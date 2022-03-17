@@ -23,7 +23,7 @@ Real time data is being created in python and then using rest api it is injected
 ## [Project 3 : DEEP LEARNING OBJECT DETECTION USING YOLOv5 ARCHITECTURE](https://drive.google.com/drive/folders/1my2biX48br28AnN6QWmQipgD1B-arXf_?usp=sharing)
 
 
-Creating a trainging data set to train our deep learning model on it.
+Creating a training data set to train our deep learning model on it.
 
 Model training period : 26 hours
 
