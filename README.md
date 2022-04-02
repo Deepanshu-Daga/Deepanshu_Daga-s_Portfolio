@@ -31,7 +31,7 @@ Using YOLOv5 Architecture for the object detection.
 
 
 
-## [Project 4 : DEEP LEARNING FACE RECOGNITION AND CUSTOM OBJECT TRACKING](https://drive.google.com/drive/folders/1my2biX48br28AnN6QWmQipgD1B-arXf_?usp=sharing)
+## [Project 4 : DEEP LEARNING FACE RECOGNITION AND CUSTOM OBJECT TRACKING]()
 
 
 Project Workflow -- Python programmed Image Dataset creation--Bounding Boxes (Annotation)--Train-Test Set Distribution--Model training--Live Video Face Detection-- Deployment.
