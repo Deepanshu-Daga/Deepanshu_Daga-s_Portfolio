@@ -28,3 +28,15 @@ Creating a training data set to train our deep learning model on it.
 Model training period : 26 hours
 
 Using YOLOv5 Architecture for the object detection.
+
+
+
+## [Project 4 : DEEP LEARNING FACE RECOGNITION AND CUSTOM OBJECT TRACKING](https://drive.google.com/drive/folders/1my2biX48br28AnN6QWmQipgD1B-arXf_?usp=sharing)
+
+
+Project Workflow -- Python programmed Image Dataset creation--Bounding Boxes (Annotation)--Train-Test Set Distribution--Model training--Live Video Face Detection-- Deployment.
+
+Deep Learning Model training period : 30 hours
+
+Using State of the art YOLOv5 Architecture 
+
