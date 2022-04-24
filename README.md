@@ -74,7 +74,7 @@ Real time data is being created in python and then using rest api it is injected
 
 
 
-## [Project 6 : A Rocker Boogie System (click me) ](https://drive.google.com/file/d/1Xwf75Ss-aT3v38xyPHBpWiccr_2WtDHt/view?usp=sharing)
+## [Project 6 : A ROCKER BOGIE MECHANISM (click me) ](https://drive.google.com/file/d/1Xwf75Ss-aT3v38xyPHBpWiccr_2WtDHt/view?usp=sharing)
 
 
 A Rocker Boogie System in the suspension arrangement used in the Mars Rovers introduced with problem solving skills for Mars Pathfinder a favoured design in Aerospace Technology Planetary Exploration Application a mechanism that enables all the wheels in contact with the surface even when Driving on a severely uneven terrain.
