@@ -5,6 +5,8 @@
 
 ## [Project 1 : STOCK TREND (NEXT 60 DAYS PRICE) PREDICTION APP (click me)](https://github.com/Deepanshu-Daga/STOCK-TREND-NEXT-60-DAYS-PRICE-PREDICTION-APP-)
 
+[Video of app](https://drive.google.com/file/d/1N2ct9_HJ4eciI9y803GR8qxqW2cktKIA/view?usp=sharing)
+
 A app which can predict the stoct price movment of all Stocks included in National (Nifty / Sensex ) and International stocks Exchnage ( DOW ).
 
 Its prediction model is build on a DEEP LEARNING RNN MODEL .
