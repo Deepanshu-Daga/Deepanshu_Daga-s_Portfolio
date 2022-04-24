@@ -9,7 +9,7 @@
 
 A app which can predict the stoct price movment of all Stocks included in National (Nifty / Sensex ) and International stocks Exchnage ( DOW ).
 
-Its prediction model is build on a DEEP LEARNING RNN MODEL .
+Its prediction model is build on a DEEP LEARNING LSTM RNN MODEL .
 
 For each stock it goes through undermentioned steps :
 
