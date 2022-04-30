@@ -4,9 +4,9 @@
 
 ## [Project 1 : STOCK TREND (NEXT 60 DAYS PRICE) PREDICTION APP (click me) ](https://share.streamlit.io/deepanshu-daga/stock_price_prediction_deeplearning_apping/main/app.py)
 
-[Github_Code_and Deeplearning_LSTM_Repo](https://github.com/Deepanshu-Daga/STOCK-TREND-NEXT-60-DAYS-PRICE-PREDICTION-APP-)
+[ GITHUB_CODE_AND DEEPLEARNING_LSTM_REPO ](https://github.com/Deepanshu-Daga/STOCK-TREND-NEXT-60-DAYS-PRICE-PREDICTION-APP-)
 
-[FOR VIDEO EXPLANATION OF APP (click me) ](https://drive.google.com/file/d/1N2ct9_HJ4eciI9y803GR8qxqW2cktKIA/view?usp=sharing)
+[ FOR VIDEO EXPLANATION OF APP (click me) ](https://drive.google.com/file/d/1N2ct9_HJ4eciI9y803GR8qxqW2cktKIA/view?usp=sharing)
 
 A app which can predict the stoct price movment of all Stocks included in National (Nifty / Sensex ) and International stocks Exchnage ( DOW ).
 
