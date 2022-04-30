@@ -2,8 +2,7 @@
 ## Welcome to my portfolio page....
 
 
-## [Project 1 : STOCK TREND (NEXT 60 DAYS PRICE) PREDICTION APP (click me) ](https://share.streamlit.io/deepanshu-daga/stock_price_prediction_deeplearning_apping/main/app.py
-)
+## [Project 1 : STOCK TREND (NEXT 60 DAYS PRICE) PREDICTION APP (click me) ](https://share.streamlit.io/deepanshu-daga/stock_price_prediction_deeplearning_apping/main/app.py)
 
 [Github_Code_and Deeplearning_LSTM_Repo](https://github.com/Deepanshu-Daga/STOCK-TREND-NEXT-60-DAYS-PRICE-PREDICTION-APP-)
 
