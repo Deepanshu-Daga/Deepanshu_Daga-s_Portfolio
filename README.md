@@ -9,7 +9,7 @@
 
 [ FOR VIDEO EXPLANATION OF APP (click me) ](https://drive.google.com/file/d/1N2ct9_HJ4eciI9y803GR8qxqW2cktKIA/view?usp=sharing)
 
-A app which can predict the stoct price movment of all Stocks included in National (Nifty / Sensex ) and International stocks Exchnage ( DOW ).
+A app which can predict the stock price movement of all Stocks included in National (Nifty / Sensex ) and International stocks Exchange ( DOW ).
 
 Its prediction model is build on a DEEP LEARNING LSTM RNN MODEL .
 
@@ -19,7 +19,7 @@ collecting data via pandas.
 
 Data cleaning.
 
-Deviding train and test data.
+Dividing train and test data.
 
 Training a deep learning RNN model for each stock on its train data set.
 
