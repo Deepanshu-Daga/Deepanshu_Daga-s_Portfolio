@@ -1,7 +1,7 @@
 
 ## Welcome to my portfolio page....
 
-## [Project 1 : Machine Learning Movie Recommender System (click me) ](https://mrsdeep-j3evuk5iikb.streamlit.app/)
+## [Project 1 : Machine Learning Movie Recommender System (click me) ](https://mrsdeep-rfcpwydwpcp3ofobt2qi8t.streamlit.app/)
 
 [ GITHUB_CODE_WITH REQUIREMENTS ](https://github.com/Deepanshu-Daga/MRS_DEEP)
 
